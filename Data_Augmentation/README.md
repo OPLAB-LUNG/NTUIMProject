@@ -6,6 +6,7 @@ Using U-Net model as basis to generate slices by nearby data to improve the perf
 
 ## Table of Contents
 
+```bash
 /Data Augmentation
 ├── README.md
 ├── Final_Choose
@@ -23,6 +24,7 @@ Using U-Net model as basis to generate slices by nearby data to improve the perf
 │ ├── CTSlice_Testing.ipynb (CT Slice model testing.)
 │ └── CTSlice_InserttoImage.ipynb (Insert Augmented CT Slice back to the original file.)
 └── Experiments (Some experiments during training.)
+```
 
 ## Getting Started
 
